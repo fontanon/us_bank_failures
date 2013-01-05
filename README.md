@@ -3,7 +3,7 @@ US Bank Failures
 
 A set of data transformations and visualizations based on Federal Deposit Insurance Corporation (FDIC) Failures Bank list.
 
-* <a href="">us_bank_failures</a> <em>CartoDB 2.0 Table</em>.
+* <a href="http://fontanon.cartodb.com/tables/us_bank_failures/embed_map?title=true&description=true&search=false&shareable=false&sql=&zoom=2&center_lat=38.272688535980976&center_lon=-76.2890625">us_bank_failures</a> <em>CartoDB 2.0 Table</em>.
 * <a href="http://fontanon.github.com/us_bank_failures/torque_animation/">Bank failures time animation</a> made with CartoDB 2.0 and Torque.
 * <a href="https://www.google.com/fusiontables/DataSource?docid=1ryf2-Fe48kIXEE9Z4n0Ogu6D74ZIOpwlUl9lAjk">US List of bank failures</a> at <em>Google Fusion Tables</em>.
 
