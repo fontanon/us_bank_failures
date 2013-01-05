@@ -1,0 +1,454 @@
+ID,Bank,City,State,Date,Acquired by,Assets ($mil.)
+1,Washington Mutual Bank,Seattle,Washington,"September 25, 2008",JPMorgan Chase Bank,307000
+2,IndyMac,Pasadena,California,"July 11, 2008","OneWest Bank, FSB",32000
+3,Downey Savings and Loan,Newport Beach,California,"November 21, 2008","U.S. Bank, N.A.",12800
+4,Franklin Bank,Houston,Texas,"November 7, 2008",Prosperity Bank,5100
+5,PFF Bank and Trust,Pomona,California,"November 21, 2008","U.S. Bank, N.A.",3700
+6,First National Bank of Nevada,Reno,Nevada,"July 25, 2008",Mutual of Omaha Bank,3400
+7,ANB Financial NA,Bentonville,Arkansas,"May 9, 2008",Pulaski Bank and Trust Company,2100
+8,Silver State Bank,Henderson,Nevada,"September 5, 2008",Nevada State Bank,2000
+9,Integrity Bank,Alpharetta,Georgia,"August 29, 2008",Regions Bank,1100
+10,The Columbian Bank and Trust Company,Topeka,Kansas,"August 22, 2008",Citizens Bank and Trust,752
+11,The Community Bank,Loganville,Georgia,"November 21, 2008",Bank of Essex,681
+12,Haven Trust Bank,Duluth,Georgia,"December 12, 2008",Branch Banking and Trust Company (BB&T),572
+13,Security Pacific Bank,Los Angeles,California,"November 7, 2008",Pacific Western Bank,"561,1"
+14,Alpha Bank & Trust,Alpharetta,Georgia,"October 24, 2008","Stearns Bank, N.A.","354,1"
+15,Freedom Bank,Bradenton,Florida,"October 31, 2008",Fifth Third Bank,287
+16,First Priority Bank,Bradenton,Florida,"August 1, 2008",SunTrust Bank,259
+17,"First Heritage Bank, NA",Newport Beach,California,"July 25, 2008",Mutual of Omaha Bank,254
+18,First Georgia Community Bank,Jackson,Georgia,"December 5, 2008",United Bank,"237,5"
+19,Ameribank,Northfork,West Virginia,"September 19, 2008",The Citizens Savings Bank,113
+20,Main Street Bank,Northville,Michigan,"October 10, 2008",Monroe Bank and Trust,98
+21,Douglass National Bank,Kansas City,Missouri,"January 25, 2008",Liberty Bank and Trust,"58,5"
+22,"First Integrity Bank, NA",Staples,Minnesota,"May 30, 2008",First International Bank and Trust,"54,7"
+23,Meridian Bank,Eldred,Illinois,"October 10, 2008",National Bank,"39,2"
+24,Sanderson State Bank,Sanderson,Texas,"December 12, 2008",The Pecos County State Bank,37
+25,Hume Bank,Hume,Missouri,"March 7, 2008",Security Bank,"18,7"
+26,Colonial Bank,Montgomery,Alabama,"August 14, 2009",Branch Banking and Trust (BB&T),25000
+27,Guaranty Bank,Austin,Texas,"August 21, 2009",BBVA Compass,13000
+28,BankUnited FSB,Coral Gables,Florida,"May 21, 2009",BankUnited,12800
+29,AmTrust Bank,Cleveland,Ohio,"December 4, 2009",New York Community Bank,12000
+30,United Commercial Bank,San Francisco,California,"November 6, 2009",East West Bank,11200
+31,California National Bank,Los Angeles,California,"October 30, 2009","U.S. Bank, N.A.",7800
+32,Corus Bank,Chicago,Illinois,"September 11, 2009","MB Financial Bank, N.A.",7000
+33,"First Federal Bank of California, F.S.B.",Santa Monica,California,"December 18, 2009","OneWest Bank, FSB",6100
+34,Park National Bank,Chicago,Illinois,"October 30, 2009","U.S. Bank, N.A.",4700
+35,"Silverton Bank, NA",Atlanta,Georgia,"May 1, 2009",None (insured depositors paid directly),4100
+36,Imperial Capital Bank,La Jolla,California,"December 18, 2009",City National Bank,4000
+37,San Diego National Bank,San Diego,California,"October 30, 2009","U.S. Bank, N.A.",3600
+38,Irwin Union Bank and Trust Company,Columbus,Indiana,"September 18, 2009","First Financial Bank, N.A.",2700
+39,Orion Bank,Naples,Florida,"November 13, 2009",IBERIABANK,2700
+40,Pacific National Bank,San Francisco,California,"October 30, 2009","U.S. Bank, N.A.",2300
+41,New Frontier Bank,Greeley,Colorado,"April 10, 2009",None (Wound down by FDIC as receiver),2000
+42,Georgian Bank,Atlanta,Georgia,"September 25, 2009",First Citizens Bank and Trust Company,2000
+43,Vineyard Bank,Rancho Cucamonga,California,"July 17, 2009",California Bank and Trust,1900
+44,Peoples First Community Bank,Panama City,Florida,"December 18, 2009",Hancock Bank,1800
+45,County Bank,Merced,California,"February 6, 2009",Westamerica Bank,1700
+46,Mutual Bank,Harvey,Illinois,"July 31, 2009",United Central Bank,1600
+47,First Bank of Beverly Hills,Calabasas,California,"April 24, 2009",None (insured depositors paid directly),1500
+48,Temecula Valley Bank,Temecula,California,"July 17, 2009",First-Citizens Bank and Trust Company,1500
+49,New South Federal Savings Bank,Irondale,Alabama,"December 18, 2009",Beal Bank,1500
+50,Security Bank of Bibb County,Macon,Georgia,"July 24, 2009",State Bank and Trust Company,1200
+51,Alliance Bank,Culver City,California,"February 6, 2009",California Bank and Trust,1140
+52,Affinity Bank,Ventura,California,"August 28, 2009",Pacific Western Bank,1000
+53,Cooperative Bank,Wilmington,North Carolina,"June 19, 2009",First Bank,970
+54,Venture Bank,Lacey,Washington,"September 11, 2009",First-Citizens Bank and Trust Company,970
+55,Founders Bank,Worth,Illinois,"July 2, 2009",The PrivateBank and Trust Company,963
+56,Omni National Bank,Atlanta,Georgia,"March 27, 2009",SunTrust Bank,956
+57,The Buckhead Community Bank,Atlanta,Georgia,"December 4, 2009",State Bank and Trust,874
+58,1st Centennial Bank,Redlands,California,"January 23, 2009",First California Bank,"803,3"
+59,San Joaquin Bank,Bakersfield,California,"October 16, 2009",Citizens Business Bank,775
+60,"Century Bank, F.S.B.",Sarasota,Florida,"November 13, 2009",IBERIABANK,728
+61,Peoples Community Bank,West Chester,Ohio,"July 31, 2009","First Financial Bank, N.A.",706
+62,"TeamBank, NA",Paola,Kansas,"March 20, 2009",Great Southern Bank,"669,8"
+63,CapitalSouth Bank,Birmingham,Alabama,"August 21, 2009",IBERIABANK,617
+64,Independent Bankers' Bank,Springfield,Illinois,"December 18, 2009",The Independent Bankers Bank,586
+65,Riverside Bank of the Gulf Coast,Cape Coral,Florida,"February 13, 2009",TIB Bank,539
+66,Warren Bank,Warren,Michigan,"October 2, 2009",The Huntington National Bank,538
+67,Strategic Capital Bank,Champaign,Illinois,"May 22, 2009",Midland States Bank,537
+68,SolutionsBank,Overland Park,Kansas,"December 11, 2009",Arvest Bank,511
+69,"Irwin Union Bank, F.S.B.",Louisville,Kentucky,"September 18, 2009","First Financial Bank, N.A.",493
+70,Cape Fear Bank,Wilmington,North Carolina,"April 10, 2009",First Federal Savings and Loan Association,492
+71,First Bank of Idaho,Ketchum,Idaho,"April 24, 2009","U.S. Bank, N.A.","488,9"
+72,First State Bank,Sarasota,Florida,"August 7, 2009","Stearns Bank, N.A.",463
+73,Mainstreet Bank,Forest Lake,Minnesota,"August 28, 2009",Central Bank,459
+74,Vantus Bank,Sioux City,Iowa,"September 4, 2009",Great Southern Bank,458
+75,Mirae Bank,Los Angeles,California,"June 26, 2009",Wilshire State Bank,456
+76,Security Bank of Jones County,Gray,Georgia,"July 24, 2009",State Bank and Trust Company,453
+77,Bradford Bank,Baltimore,Maryland,"August 28, 2009",Manufacturers & Traders Trust Company,452
+78,Bank of Clark County,Vancouver,Washington,"January 16, 2009",Umpqua Bank,"446,5"
+79,Citizens National Bank,Macomb,Illinois,"May 22, 2009",Morton Community Bank,437
+80,"Republic Federal Bank, N.A.",Miami,Florida,"December 11, 2009",1st United Bank,433
+81,National Bank of Commerce,Berkeley,Illinois,"January 16, 2009",Republic Bank of Chicago,"430,9"
+82,Security Bank of Houston County,Perry,Georgia,"July 24, 2009",State Bank and Trust Company,383
+83,Southern Community Bank,Fayetteville,Georgia,"June 19, 2009",United Community Bank,377
+84,Suburban FSB,Crofton,Maryland,"January 30, 2009",Bank of Essex,360
+85,Platinum Community Bank,Rolling Meadows,Illinois,"September 4, 2009",None (insured depositors paid directly),346
+86,FirstBank Financial Service,McDonough,Georgia,"February 6, 2009",Regions Bank,337
+87,Westsound Bank,Bremerton,Washington,"May 8, 2009",Kitsap Bank,"334,6"
+88,Bank of Elmwood,Racine,Wisconsin,"October 23, 2009",Tri City National Bank,327
+89,North Houston Bank,Houston,Texas,"October 30, 2009","U.S. Bank, N.A.",326
+90,Security Bank of Gwinnett County,Suwanee,Georgia,"July 24, 2009",State Bank and Trust Company,322
+91,America West Bank,Layton,Utah,"May 1, 2009",Cache Valley Bank,"299,4"
+92,FirstCity Bank,Stockbridge,Georgia,"March 20, 2009",None (insured depositors paid directly),297
+93,RockBridge Commercial Bank,Atlanta,Georgia,"December 18, 2009",None (insured depositors paid directly),294
+94,MagnetBank,Salt Lake City,Utah,"January 30, 2009",None (insured depositors paid directly),"292,9"
+95,First DuPage Bank of Westmont,Westmont,Illinois,"October 23, 2009",First Midwest Bank,279
+96,BankFirst,Sioux Falls,South Dakota,"July 17, 2009","Alerus Financial, N.A.",275
+97,Corn Belt Bank & Trust Co.,Pittsfield,Illinois,"February 13, 2009",The Carlinville National Bank,"271,8"
+98,Great Basin Bank of Nevada,Elko,Nevada,"April 17, 2009",Nevada State Bank,271
+99,Madisonville State Bank,Madisonville,Texas,"October 30, 2009","U.S. Bank, N.A.",257
+100,Security Savings Bank,Henderson,Nevada,"February 27, 2009",Bank of Nevada,"238,3"
+101,Heritage Community Bank,Glenwood,Illinois,"February 27, 2009","MB Financial Bank, N.A.","232,9"
+102,Security Bank of North Metro,Woodstock,Georgia,"July 24, 2009",State Bank and Trust Company,224
+103,Ocala National Bank,Ocala,Florida,"January 30, 2009","CenterState Bank of Florida, N.A.","223,5"
+104,Neighborhood Community Bank,Newnan,Georgia,"June 26, 2009",Charterbank,"221,6"
+105,Bank of Lincolnwood,Lincolnwood,Illinois,"June 5, 2009",Republic Bank of Chicago,214
+106,"Bank USA, N.A.",Phoenix,Arizona,"October 30, 2009","U.S. Bank, N.A.",213
+107,InBank,Oak Forest,Illinois,"September 4, 2009","MB Financial Bank, N.A.",212
+108,Security Bank of North Fulton,Alpharetta,Georgia,"July 24, 2009",State Bank and Trust Company,209
+109,Community First Bank,Prineville,Oregon,"August 7, 2009",Home Federal Bank,209
+110,Greater Atlantic Bank,Reston,Virginia,"December 4, 2009",Sonabank,203
+111,Prosperan Bank,Oakdale,Minnesota,"November 6, 2009","Alerus Financial, N.A.",200
+112,Community Bank of West Georgia,Villa Rica,Georgia,"June 26, 2009",None (insured depositors paid directly),"199,4"
+113,Flagship National Bank,Bradenton,Florida,"October 23, 2009",First Federal Bank of Florida,190
+114,Michigan Heritage Bank,Farmington Hills,Michigan,"April 24, 2009",Level One Bank,"184,6"
+115,American Sterling Bank,Sugar Creek,Missouri,"April 17, 2009",Metcalf Bank,181
+116,Freedom Bank of Georgia,Commerce,Georgia,"March 6, 2009",Northeast Georgia Bank,173
+117,Benchmark Bank,Aurora,Illinois,"December 4, 2009","MB Financial Bank, N.A.",170
+118,Citizens State Bank,New Baltimore,Michigan,"December 18, 2009",None (insured depositors paid directly),169
+119,First Coweta Bank,Newnan,Georgia,"August 21, 2009",United Bank,167
+120,First National Bank of Danville,Danville,Illinois,"July 2, 2009","First Financial Bank, N.A.",166
+121,First BankAmericano,Elizabeth,New Jersey,"July 31, 2009",Crown Bank,166
+122,Community Bank of Nevada,Las Vegas,Nevada,"August 14, 2009",None (insured depositors paid directly),159
+123,United Security Bank,Sparta,Georgia,"November 6, 2009",Ameris Bank,157
+124,Fist National Bank of Anthony,Anthony,Kansas,"June 19, 2009",Bank of Kansas,"156,9"
+125,Community Bank of Arizona,Phoenix,Arizona,"August 14, 2009",MidFirst Bank,156
+126,ebank,Atlanta,Georgia,"August 21, 2009","Stearns Bank, N.A.",143
+127,Pacific Coast National Bank,San Clemente,California,"November 13, 2009",Sunwest Bank,134
+128,Silver Falls Bank,Silverton,Oregon,"February 20, 2009",Citizens Bank,"131,4"
+129,Sherman County Bank,Loup City,Nebraska,"February 13, 2009",Heritage Bank,"129,8"
+130,First Security National Bank,Norcross,Georgia,"December 4, 2009",State Bank and Trust,128
+131,"Union Bank, NA",Gilbert,Arizona,"August 14, 2009",MidFirst Bank,124
+132,Colorado National Bank,Colorado Springs,Colorado,"March 20, 2009",Herring Bank,"123,9"
+133,Integrity Bank,Jupiter,Florida,"July 31, 2009",Stonegate Bank,119
+134,Millennium State Bank of Texas,Dallas,Texas,"July 2, 2009",State Bank of Texas,118
+135,Citizens National Bank,Teague,Texas,"October 30, 2009","U.S. Bank, N.A.",118
+136,First Piedmont Bank,Winder,Georgia,"July 17, 2009",First American Bank and Trust Company,115
+137,American Southern Bank,Kennesaw,Georgia,"April 24, 2009",Bank of North Georgia,"112,3"
+138,American United Bank,Lawrenceville,Georgia,"October 23, 2009",Ameris Bank,111
+139,Riverview Community Bank,Otsego,Minnesota,"October 23, 2009",Central Bank,108
+140,First State Bank,Flagstaff,Arizona,"September 4, 2009",Sunwest Bank,105
+141,First State Bank of Altus,Altus,Oklahoma,"July 31, 2009",Herring Bank,103
+142,Community National Bank of Sarasota County,Venice,Florida,"August 7, 2009","Stearns Bank, N.A.",97
+143,Horizon Bank,Pine City,Minnesota,"June 26, 2009","Stearns Bank, N.A.","87,6"
+144,Hillcrest Bank Florida,Naples,Florida,"October 23, 2009","Hillcrest Bank, N.A.",83
+145,Community Bank of Lemont,Lemont,Illinois,"October 30, 2009","U.S. Bank, N.A.",82
+146,MetroPacific Bank,Irvine,California,"June 26, 2009",Sunwest Bank,80
+147,Commerce Bank of Southwest Florida,Fort Myers,Florida,"November 20, 2009",Central Bank,80
+148,Rock River Bank,Oregon,Illinois,"July 2, 2009",The Harvard State Bank,77
+149,Pinnacle Bank of Oregon,Beaverton,Oregon,"February 13, 2009",Washington Trust Bank of Spokane,73
+150,Brickwell Community Bank,Woodbury,Minnesota,"September 11, 2009","CorTrust Bank, N.A.",72
+151,John Warner Bank,Clinton,Illinois,"July 2, 2009",State Bank of Lincoln,70
+152,Bank of Wyoming,Thermopolis,Wyoming,"July 10, 2009",Central Bank and Trust,70
+153,Partners Bank,Naples,Florida,"October 23, 2009",Stonegate Bank,66
+154,Waterford Village Bank,Williamsville,New York,"July 24, 2009","Evans Bank, N.A.",61
+155,Elizabeth State Bank,Elizabeth,Illinois,"July 2, 2009",Galena State Bank and Trust Company,56
+156,Jennings State Bank,Spring Grove,Minnesota,"October 2, 2009",Central Bank,56
+157,The Tattnall Bank,Reidsville,Georgia,"December 4, 2009",Heritage Bank of the South,50
+158,Citizens Community Bank,Ridgewood,New Jersey,"May 1, 2009",North Jersey Community Bank,"45,1"
+159,South Colorado National Bank,Pueblo,Colorado,"October 2, 2009",Legacy Bank,40
+160,"Valley Capital Bank, N.A.",Mesa,Arizona,"December 11, 2009",Enterprise Bank and Trust,40
+161,First State Bank of Winchester,Winchester,Illinois,"July 2, 2009",The First National Bank of Beardstown,36
+162,Gateway Bank of St. Louis,St. Louis,Missouri,"November 6, 2009",Central Bank of Kansas City,28
+163,First Bank of Kansas City,Kansas City,Missouri,"September 4, 2009",Great American Bank,16
+164,Home Federal Savings Bank,Detroit,Michigan,"November 6, 2009",Liberty Bank and Trust Company,15
+165,Dwelling House Savings and Loan Association,Pittsburgh,Pennsylvania,"August 14, 2009","PNC Bank, N.A.",13
+166,Westernbank Puerto Rico,Mayaguez,Puerto Rico,"April 30, 2010",Banco Popular de Puerto Rico,11940
+167,R-G Premier Bank of Puerto Rico,Hato Rey,Puerto Rico,"April 30, 2010",Scotiabank de Puerto Rico,5920
+168,La Jolla Bank,La Jolla,California,"February 19, 2010","OneWest Bank, FSB",3600
+169,Frontier Bank,Everett,Washington,"April 30, 2010","Union Bank, N.A.",3500
+170,Riverside National Bank of Florida,Fort Pierce,Florida,"April 16, 2010","TD Bank, N.A.",3420
+171,Amcore Bank,Rockford,Illinois,"April 23, 2010","Harris, N.A.",3400
+172,Midwest Bank and Trust Company,Elmwood Park,Illinois,"May 14, 2010","FirstMerit Bank, N.A.",3170
+173,TierOne Bank,Lincoln,Nebraska,"June 4, 2010",Great Western Bank,2800
+174,Eurobank,San Juan,Puerto Rico,"April 30, 2010",Orient Bank and Trust,2560
+175,First Regional Bank,Los Angeles,California,"January 29, 2010",First-Citizens Bank and Trust Company,2180
+176,ShoreBank,Chicago,Illinois,"August 20, 2010",Urban Partnership Bank,2160
+177,CF Bancorp,Port Huron,Michigan,"April 30, 2010",First Michigan Bank,1650
+178,Advanta Bank Corp,Draper,Utah,"March 19, 2010",None (insured depositors paid directly),1600
+179,Hillcrest Bank,Overland Park,Kansas,"October 22, 2010","Hillcrest Bank, N.A.",1600
+180,Horizon Bank,Bellingham,Washington,"January 8, 2010",Washington Federal Savings and Loan Association,1300
+181,Community Bank and Trust,Cornelia,Georgia,"January 29, 2010","SCBT, NA",1210
+182,Charter Bank,Sante Fe,New Mexico,"January 22, 2010",Charter Bank,1200
+183,Broadway Bank,Chicago,Illinois,"April 23, 2010","MB Financial, N.A.",1200
+184,Premier Bank,Jefferson City,Missouri,"October 15, 2010",Providence Bank,1200
+185,City Bank,Lynnwood,Washington,"April 16, 2010",Whidbey Island Bank,1130
+186,Columbia River Bank,The Dalles,Oregon,"January 22, 2010",Columbia State Bank,1100
+187,Appalachian Community Bank,Ellijay,Georgia,"March 19, 2010",Community and Southern Bank,1010
+188,Crescent Bank and Trust Co,Jasper,Georgia,"July 23, 2010",Renasant Bank,1000
+189,Florida Community Bank,Immokalee,Florida,"January 29, 2010","Premier American Bank, N.A.",876
+190,Los Padres Bank,Solvang,California,"August 20, 2010",Pacific Western Bank,870
+191,First National Bank of Georgia,Carrollton,Georgia,"January 29, 2010",Community and Southern Bank,833
+192,Barnes Banking Company,Kaysville,Utah,"January 15, 2010",None (insured depositors paid directly),828
+193,First Banking Center,Burlington,Wisconsin,"November 19, 2010",First Michigan Bank,821
+194,LibertyBank,Eugene,Oregon,"July 30, 2010",Home Federal Bank,768
+195,Rainier Pacific Bank,Tacoma,Washington,"February 26, 2010",Umpqua Bank,718
+196,First National Bank of the South,Spartanburg,South Carolina,"July 16, 2010",NAFH National Bank,682
+197,Darby Bank & Trust,Vidalia,Georgia,"November 12, 2010",Ameris Bank,655
+198,Peninsula Bank,Englewood,Florida,"June 25, 2010","Premier American Bank, N.A.",644
+199,Bank of Florida-Southwest,Naples,Florida,"May 28, 2010",EverBank,641
+200,Tamalpais Bank,San Rafael,California,"April 16, 2010","Union Bank, N.A.",629
+201,Bank of Florida-Southeast,Fort Lauderdale,Florida,"May 28, 2010",EverBank,595
+202,Beach First National Bank,Myrtle Beach,South Carolina,"April 9, 2010",Bank of North Carolina,585
+203,Home National Bank,Blackwell,Oklahoma,"July 9, 2010",RCB Bank,561
+204,K Bank,Randallstown,Maryland,"November 5, 2010",Manufacturers and Traders Trust Company,538
+205,Sun American Bank,Boca Raton,Florida,"March 5, 2010",First-Citizens Bank and Trust Company,536
+206,The Cowlitz Bank,Longview,Washington,"July 30, 2010",Heritage Bank,529
+207,Washington First International Bank,Seattle,Washington,"June 11, 2010",East West Bank,521
+208,The Park Avenue Bank,New York,New York,"March 12, 2010",Valley National Bank,520
+209,"Security Savings Bank, FSB",Olathe,Kansas,"October 15, 2010",Simmons First National Bank,508
+210,Butte Community Bank,Chico,California,"August 20, 2010","Rabobbank, N.A.",499
+211,Desert Hills Bank,Phoenix,Arizona,"March 26, 2010",New York Community Bank,497
+212,Palos Bank and Trust,Palos Heights,Illinois,"August 13, 2010",First Midwest Bank,493
+213,Evergreen Bank,Seattle,Washington,"January 22, 2010",Umpqua Bank,489
+214,New Century Bank,Chicago,Illinois,"April 23, 2010","MB Financial, N.A.",486
+215,Nevada Security Bank,Reno,Nevada,"June 18, 2010",Umpqua Bank,480
+216,"The Bank of Miami, N.A.",Coral Gables,Florida,"December 17, 2010",1st United Bank,448
+217,Peoples Bank,Winder,Georgia,"September 17, 2010",Community and Southern Bank,447
+218,Metro Bank of Dade County,Miami,Florida,"July 16, 2010",NAFH National Bank,442
+219,Wheatland Bank,Naperville,Illinois,"April 23, 2010",Wheaton Bank and Trust,437
+220,Wakulla Bank,Crawfordville,Florida,"October 1, 2010",Centennial Bank,424
+221,George Washington Savings Bank,Orland Park,Illinois,"February 19, 2010","FirstMerit Bank, N.A.",413
+222,Sterling Bank,Lantana,Florida,"July 23, 2010",IBERIABANK,408
+223,First Federal Bank of North Florida,Palatka,Florida,"April 16, 2010","TD Bank, N.A.",393
+224,Bank of Hiawassee,Hiawassee,Georgia,"March 19, 2010",Citizens South Bank,378
+225,Woodlands Bank,Bluffton,South Carolina,"July 16, 2010",Bank of the Ozarks,376
+226,American Marine Bank,Bainbridge Island,Washington,"January 29, 2010",Columbia State Bank,373
+227,Coastal Community Bank,Panama City,Florida,"July 30, 2010",Centennial Bank,373
+228,McIntosh Commercial Bank,Carrollton,Georgia,"March 26, 2010",Hamilton State Bank,363
+229,Sun West Bank,Las Vegas,Nevada,"May 28, 2010",City National Bank,361
+230,Premier American Bank,Miami,Florida,"January 22, 2010","Premier American Bank, N.A.",351
+231,Maritime Savings Bank,West Allis,Wisconsin,"September 17, 2010","North Shore Bank, FSB",351
+232,Sonoma Valley Bank,Sonoma,California,"August 20, 2010",Westamerica Bank,337
+233,1st Pacific Bank of California,San Diego,California,"May 7, 2010",City National Bank,336
+234,Old Southern Bank,Orlando,Florida,"March 12, 2010",Centennial Bank,316
+235,Pacific State Bank,Stockton,California,"August 20, 2010","Rabobbank, N.A.",312
+236,Unity National Bank,Cartersville,Georgia,"March 26, 2010",Bank of the Ozarks,292
+237,North County Bank,Arlington,Washington,"September 24, 2010",Whidbey Island Bank,289
+238,Bay National Bank,Baltimore,Maryland,"July 9, 2010","Bay Bank, FSB",282
+239,First Arizona Savings,Scottsdale,Arizona,"October 22, 2010",None (insured depositors paid directly),272
+240,Innovative Bank,Oakland,California,"April 16, 2010",Center Bank,269
+241,Butler Bank,Lowell,Massachusetts,"April 16, 2010",People's United Bank,268
+242,Ravenswood Bank,Chicago,Illinois,"August 6, 2010",Northbrook Bank and Trust Company,265
+243,Turnberry Bank,Aventura,Florida,"July 16, 2010",NAFH National Bank,264
+244,First National Bank,Savannah,Georgia,"June 25, 2010",The Savannah Bank,253
+245,Paramount Bank,Farmington Hills,Michigan,"December 10, 2010",Level One Bank,253
+246,Home Valley Bank,Cave Junction,Oregon,"July 23, 2010",South Valley Bank and Trust,252
+247,First Commerce Community Bank,Douglasville,Georgia,"September 17, 2010",Community and Southern Bank,248
+248,Bank of Florida-Tampa Bay,Tampa,Florida,"May 28, 2010",EverBank,245
+249,Chestatee State Bank,Dawsonville,Georgia,"December 17, 2010",Bank of the Ozarks,244
+250,Statewide Bank,Covington,Louisiana,"March 12, 2010",Home Bank,243
+251,The Bank of Bonifay,Bonifay,Florida,"May 7, 2010",First Federal Bank of Florida,243
+252,Pierce Commercial Bank,Tacoma,Washington,"November 5, 2010",Heritage Bank,221
+253,Centennial Bank,Ogden,Utah,"March 5, 2010",None (insured depositors paid directly),215
+254,SouthwestUSA Bank,Las Vegas,Nevada,"July 23, 2010",Plaza Bank,214
+255,Bank of Illinois,Normal,Illinois,"March 5, 2010",Heartland Bank and Trust Company,212
+256,LibertyPointe Bank,New York,New York,"March 12, 2010",Valley National Bank,210
+257,Copper Star Bank,Scottsdale,Arizona,"November 12, 2010","Stearns Bank, N.A.",204
+258,Lincoln Park Saving Bank,Chicago,Illinois,"April 23, 2010",Northbrook Bank and Trust Company,200
+259,United Americas Bank,Atlanta,Georgia,"December 17, 2010",State Bank and Trust Company,194
+260,USA Bank,Port Chester,New York,"July 9, 2010",New Century Bank,190
+261,Horizon Bank,Bradenton,Florida,"September 10, 2010",Bank of the Ozarks,188
+262,Champion Bank,Creve Coeur,Missouri,"April 30, 2010",BankLiberty,187
+263,Olde Cypress Community Bank,Clewiston,Florida,"July 16, 2010",CenterState Bank of Florida,169
+264,Bank of Ellijay,Ellijay,Georgia,"September 17, 2010",Community and Southern Bank,169
+265,NorthWest Bank and Trust,Acworth,Georgia,"July 30, 2010",State Bank and Trust Company,168
+266,Waterfield Bank,Germantown,Maryland,"March 5, 2010",None (insured depositors paid directly),156
+267,Independent National Bank,Ocala,Florida,"August 20, 2010",CenterState Bank of Florida,156
+268,First Southern Bank,Batesville,Arkansas,"December 17, 2010",Southern Bank,156
+269,Haven Trust Bank Florida,Ponte Vedra Beach,Florida,"September 24, 2010",First Southern Bank,149
+270,First Suburban National Bank,Maywood,Illinois,"October 22, 2010",Seaway Bank and Trust Company,149
+271,Tifton Banking Company,Tifton,Georgia,"November 12, 2010",Ameris Bank,144
+272,Williamsburg First National Bank,Kingstree,South Carolina,"July 23, 2010",First Citizens Bank and Trust Company,139
+273,First Lowndes Bank,Luverne,Alabama,"March 19, 2010",First Citizens Bank,137
+274,Satilla Community Bank,St. Marys,Georgia,"May 14, 2010",Ameris Bank,136
+275,First National Bank of Barnesville,Barnesville,Georgia,"October 22, 2010",United Bank,131
+276,Peotone Bank and Trust Company,Peotone,Illinois,"April 23, 2010",First Midwest Bank,130
+277,Marco Community Bank,Marco Island,Florida,"February 19, 2010",Mutual of Omaha Bank,120
+278,Towne Bank of Arizona,Mesa,Arizona,"May 7, 2010",Commerce Bank of Arizona,120
+279,Earthstar Bank,Southampton,Pennsylvania,"December 10, 2010",Polonia Bank,113
+280,Gulf State Community Bank,Carrabelle,Florida,"November 19, 2010",Centennial Bank,112
+281,Progress Bank of Florida,Tampa,Florida,"October 22, 2010",Bay Cities Bank,111
+282,New Liberty Bank,Plymouth,Michigan,"May 14, 2010",Bank of Ann Arbor,109
+283,Community Security Bank,New Prague,Minnesota,"July 23, 2010",Roundbank,108
+284,Allegiance Bank of North America,Bala Cynwyd,Pennsylvania,"November 19, 2010",VIST Bank,106
+285,Shoreline Bank,Shoreline,Washington,"October 1, 2010",GBC International Bank,104
+286,Granite Community Bank,Granite Bay,California,"May 28, 2010",Tri Counties Bank,103
+287,Western Commercial Bank,Woodland Hills,California,"November 5, 2010",First California Bank,99
+288,Century Security Bank,Duluth,Georgia,"March 19, 2010",Bank of Upson,97
+289,Southwest Community Bank,Springfield,Missouri,"May 14, 2010",Simmons First National Bank,97
+290,Mainstreet Savings Bank,Hastings,Michigan,"July 16, 2010",Commercial Bank,97
+291,WestBridge Bank and Trust Company,Chesterfield,Missouri,"October 15, 2010",Midland State Bank,92
+292,AmericanFirst Bank,Clermont,Florida,"April 16, 2010","TD Bank, N.A.",91
+293,Key West Bank,Key West,Florida,"March 26, 2010",Centennial Bank,88
+294,ISN Bank,Cherry Hill,New Jersey,"September 17, 2010",Customers Bank,82
+295,High Desert State Bank,Albuquerque,New Mexico,"June 25, 2010",First American Bank,81
+296,First Bank of Jacksonville,Jacksonville,Florida,"October 22, 2010",Ameris Bank,81
+297,Citizens Bank and Trust Company of Chicago,Chicago,Illinois,"April 23, 2010",Republic Bank of Chicago,77
+298,Town Community Bank & Trust,Antioch,Illinois,"January 15, 2010",First American Bank,70
+299,American National Bank,Parma,Ohio,"March 19, 2010",The National Bank and Trust Company,70
+300,Community National Bank at Bartow,Bartow,Florida,"August 20, 2010",CenterState Bank of Florida,68
+301,Appalachian Community Bank,McCaysville,Georgia,"December 17, 2010",Peoples Bank of East Tennessee,68
+302,BC National Banks,Butler,Missouri,"April 30, 2010",Community First Bank,67
+303,Bayside Savings Bank,Port Saint Joe,Florida,"July 30, 2010",Centennial Bank,66
+304,Pinehurst Bank,St. Paul,Minnesota,"May 21, 2010",Coulee Bank,61
+305,"Marshall Bank, N.A.",Hallock,Minnesota,"January 29, 2010",United Valley Bank,60
+306,First National Bank,Rosedale,Mississippi,"June 4, 2010",The Jefferson Bank,60
+307,The La Coste National Bank,La Coste,Texas,"February 19, 2010",Community National Bank,54
+308,Lakeside Community Bank,Sterling Heights,Michigan,"April 16, 2010",None (insured depositors paid directly),53
+309,Carson River Community Bank,Carson City,Nevada,"February 26, 2010",Heritage Bank of Nevada,51
+310,Bramble Savings Bank,Milford,Ohio,"September 17, 2010",Foundation Bank,48
+311,First Vietnamese American Bank,Westminster,California,"November 5, 2010",Grandpoint Bank,48
+312,Thunder Bank,Sylvan Grove,Kansas,"July 23, 2010",The Bennington State Bank,33
+313,Access Bank,Champlin,Minnesota,"May 7, 2010",PrinsBank,32
+314,Gordon Bank,Gordon,Georgia,"October 22, 2010",Morris Bank,29
+315,Community National Bank,Lino Lakes,Minnesota,"December 17, 2010",Farmers & Merchants Savings Bank,29
+316,State Bank of Aurora,Aurora,Minnesota,"March 19, 2010",Northern State Bank,28
+317,St. Stephen State Bank,St. Stephen,Minnesota,"January 15, 2010",First State Bank of St. Joseph,25
+318,Bank of Leeton,Leeton,Missouri,"January 22, 2010","Sunflower Bank, N.A.",20
+319,1st American State Bank of Minnesota,Hancock,Minnesota,"February 5, 2010","Community Development Bank, FSB",18
+320,Arcola Homestead Savings Bank,Arcola,Illinois,"June 4, 2010",None (insured depositors paid directly),17
+321,Imperial Savings & Loan,Martinsville,Virginia,"August 20, 2010","River Community Bank, N.A.",9
+322,Ideal Federal Savings Bank,Baltimore,Maryland,"July 9, 2010",None (insured depositors paid directly),6
+323,Superior Bank,Birmingham,Alabama,"April 15, 2011","Superior Bank, NA",3000
+324,First Community Bank,Taos,New Mexico,"January 28, 2011","U.S. Bank, N.A.",2300
+325,"Integra Bank, NA",Evansville,Indiana,"July 29, 2011",Old National Bank,2200
+326,Lydian Private Bank,Palm Beach,Florida,"August 19, 2011","Sabadell United Bank, N.A.",1700
+327,United Western Bank,Denver,Colorado,"January 21, 2011",First-Citizens Bank and Trust Company,1650
+328,Community Banks of Colorado,Greenwood Village,Colorado,"October 21, 2011","Bank Midwest, N.A.",1380
+329,Bank of Choice,Greeley,Colorado,"July 22, 2011","Bank Midwest, N.A.",1070
+330,Bank of the Commonwealth,Norfolk,Virginia,"September 23, 2011",Southern Bank and Trust Company,"985,1"
+331,First Chicago Bank & Trust,Chicago,Illinois,"July 8, 2011",Northbrook Bank and Trust Company,"959,3"
+332,Park Avenue Bank,Valdosta,Georgia,"April 29, 2011",Bank of the Ozarks,953
+333,Nexity Bank,Birmingham,Alabama,"April 15, 2011",AloStar Bank of Commerce,793
+334,FirsTier Bank,Louisville,Colorado,"January 28, 2011",None (insured depositors paid directly),782
+335,Atlantic Southern Bank,Macon,Georgia,"May 20, 2011","CertusBank, NA",742
+336,First Georgia Banking Company,Franklin,Georgia,"May 20, 2011","CertusBank, NA",731
+337,Colorado Capital Bank,Castle Rock,Colorado,"July 8, 2011",First-Citizens Bank and Trust Company,"717,5"
+338,First Commercial Bank of Florida,Orlando,Florida,"January 7, 2011",First Southern Bank,599
+339,Bank of Whitman,Colfax,Washington,"August 5, 2011",Columbia State Bank,"548,6"
+340,The First National Bank of Olathe,Olathe,Kansas,"August 12, 2011",Enterprise Bank and Trust,"538,1"
+341,Community Central Bank,Mount Clemens,Michigan,"April 29, 2011",Talmer Bank and Trust,476
+342,The RiverBank,Wyoming,Minnesota,"October 7, 2011",Central Bank,"417,4"
+343,CommunitySouth Bank and Trust,Easley,South Carolina,"January 21, 2011","CertusBank, NA",402
+344,Peoples State Bank,Hamtramck,Michigan,"February 11, 2011",First Michigan Bank,391
+345,Habersham Bank,Clarkesville,Georgia,"February 18, 2011","SCBT, NA",387
+346,Central Progressive Bank,Lacombe,Louisiana,"November 18, 2011",First NBC Bank,"383,1"
+347,SunFirst Bank,Saint George,Utah,"November 4, 2011",Cache Valley Bank,"376,2"
+348,Sun Security Bank,Ellington,Missouri,"October 7, 2011",Great Southern Bank,"355,9"
+349,First National Bank of Central Florida,Winter Park,Florida,"April 29, 2011",Florida Community Bank,352
+350,McIntosh State Bank,Jackson,Georgia,"June 17, 2011",Hamilton Bank,"339,9"
+351,"San Luis Trust Bank, FSB",San Luis Obispo,California,"February 18, 2011",First California Bank,333
+352,Bartow County Bank,Cartersville,Georgia,"April 15, 2011",Hamilton State Bank,330
+353,First Choice Community Bank,Dallas,Georgia,"April 29, 2011",Bank of the Ozarks,309
+354,First National Bank of Florida,Milton,Florida,"September 9, 2011",Charter Bank,"296,8"
+355,Citizens Bank of Northern California,Nevada City,California,"September 23, 2011",Tri Counties Bank,"288,8"
+356,LandMark Bank of Florida,Sarasota,Florida,"July 22, 2011",American Momentum Bank,275
+357,Evergreen State Bank,Stoughton,Wisconsin,"January 28, 2011",McFarland State Bank,247
+358,First International Bank,Plano,Texas,"September 30, 2011",American First National Bank,"239,9"
+359,"BankMeridian, N.A.",Columbia,South Carolina,"July 29, 2011","SCBT, NA","239,8"
+360,American Trust Bank,Roswell,Georgia,"February 4, 2011",Renasant Bank,238
+361,Oglethorpe Bank,Brunswick,Georgia,"January 14, 2011",Bank of the Ozarks,231
+362,First Peoples Bank,Port St. Lucie,Florida,"July 15, 2011","Premier American Bank, N.A.","228,3"
+363,Heritage Banking Group,Carthage,Mississippi,"April 15, 2011",TrustMark National Bank,224
+364,Old Harbor Bank,Clearwater,Florida,"October 21, 2011",1st United Bank,"215,9"
+365,Citizens Bank of Effingham,Springfield,Georgia,"February 18, 2011",Heritage Bank of the South,214
+366,Canyon National Bank,Palm Springs,California,"February 11, 2011",Pacific Premier Bank,211
+367,Atlantic Bank and Trust,Charleston,South Carolina,"June 3, 2011",First Citizens Bank and Trust Company,208
+368,First State Bank,Cranford,New Jersey,"October 14, 2011","Northfield Bank (Staten Island, NY)","204,4"
+369,Piedmont Community Bank,Gray,Georgia,"October 14, 2011",State Bank and Trust Company,"201,7"
+370,High Trust Bank,Stockbridge,Georgia,"July 15, 2011",Ameris Bank,"192,5"
+371,Decatur First Bank,Decatur,Georgia,"October 21, 2011",Fidelity Bank,"191,5"
+372,Country Bank,Aledo,Illinois,"October 14, 2011",Blackhawk Bank & Trust,"190,6"
+373,Legacy Bank,Milwaukee,Wisconsin,"March 11, 2011",Seaway Bank and Trust Company,190
+374,Bank of Asheville,Asheville,North Carolina,"January 21, 2011",First Bank,188
+375,One Georgia Bank,Atlanta,Georgia,"July 15, 2011",Ameris Bank,"186,3"
+376,Western Springs National Bank and Trust,Western Springs,Illinois,"April 11, 2011",Heartland Bank and Trust Company,186
+377,Community Capital Bank,Jonesboro,Georgia,"October 21, 2011",State Bank and Trust Company,"181,2"
+378,First Heritage Bank,Snohomish,Washington,"May 27, 2011",Columbia State Bank,174
+379,First Southern National Bank,Statesboro,Georgia,"August 19, 2011",Heritage Bank of the South,"164,6"
+380,Bank of Commerce,Wood Dale,Illinois,"March 25, 2011",Advantage National Bank Group,163
+381,Western National Bank,Phoenix,Arizona,"December 16, 2011",Washington Federal,"162,9"
+382,Blue Ridge Savings Bank,Asheville,North Carolina,"October 14, 2011",Bank of North Carolina,161
+383,North Georgia Bank,Watkinsville,Georgia,"February 4, 2011",BankSouth,153
+384,Legacy Bank,Scottsdale,Arizona,"January 7, 2011",Enterprise Bank and Trust,151
+385,Patriot Bank of Georgia,Cumming,Georgia,"September 2, 2011",Georgia Commerce Bank,"150,8"
+386,Nevada Commerce Bank,Las Vegas,Nevada,"April 11, 2011",City National Bank,144
+387,Summit Bank,Burlington,Washington,"May 20, 2011",Columbia State Bank,143
+388,First Choice Bank,Geneva,Illinois,"August 19, 2011",Inland Bank and Trust,141
+389,Coastal Bank,Cocoa Beach,Florida,"May 6, 2011",Florida Community Bank,129
+390,Sunshine State Community Bank,Port Orange,Florida,"February 11, 2011","Premier American Bank, N.A.",126
+391,Premier Community Bank of the Emerald Coast,Crestview,Florida,"December 16, 2011",Summit Bank,126
+392,Valley Community Bank,St. Charles,Illinois,"February 25, 2011",First State Bank,123
+393,Charter Oak Bank,Napa,California,"February 18, 2011",Bank of Marin,121
+394,Bank of Shorewood,Shorewood,Illinois,"August 5, 2011",Heartland Bank and Trust Company,"110,7"
+395,New Horizons Bank,East Ellijay,Georgia,"April 15, 2011",Citizens South Bank,110
+396,"Mid City Bank, Inc.",Omaha,Nebraska,"November 4, 2011",Premier Bank,"106,1"
+397,Mountain Heritage Bank,Clayton,Georgia,"June 24, 2011",First American Bank and Trust Company,"103,7"
+398,CreekSide Bank,Woodstock,Georgia,"September 2, 2011",Georgia Community Bank,"102,3"
+399,First Commercial Bank of Tampa Bay,Tampa,Florida,"June 17, 2011",Stonegate Bank,"98,6"
+400,Enterprise Banking Company,McDonough,Georgia,"January 21, 2011",None (insured depositors paid directly),96
+401,Virginia Business Bank,Richmond,Virginia,"July 29, 2011",Xenith Bank,"95,8"
+402,Polk County Bank,Johnston,Iowa,"November 18, 2011",Grinnell State Bank,"91,6"
+403,First National Bank of Davis,Davis,Oklahoma,"March 11, 2011",The Pauls Valley National Bank,90
+404,Badger State Bank,Cassville,Wisconsin,"February 11, 2011",Royal Bank,84
+405,Summit Bank,Prescott,Arizona,"July 15, 2011",The Foothills Bank,72
+406,Cortez Community Bank,Brooksville,Florida,"April 29, 2011",Florida Community Bank,71
+407,Signature Bank,Windsor,Colorado,"July 8, 2011",Points West Community Bank,"66,7"
+408,Community Bank of Rockmart,Rockmart,Georgia,"November 10, 2011",Century Bank of Georgia,"62,4"
+409,Community First Bank,Chicago,Illinois,"February 4, 2011",Northbrook Bank and Trust,51
+410,Public Savings Bank,Huntingdon Valley,Pennsylvania,"August 18, 2011","Capital Bank, N.A.","46,8"
+411,Southshore Community Bank,Apollo Beach,Florida,"July 22, 2011",American Momentum Bank,"46,3"
+412,First State Bank,Camargo,Oklahoma,"January 28, 2011",Bank 7,44
+413,All American Bank,Des Plaines,Illinois,"October 28, 2011",International Bank of Chicago,"37,8"
+414,Rosemount National Bank,Rosemount,Minnesota,"April 15, 2011",Central Bank,37
+415,Tennessee Commerce Bank,Franklin,Tennessee,"January 27, 2012",Republic Bank & Trust Company,1185
+416,Fidelity Bank,Dearborn,Michigan,"March 30, 2012",Huntington National Bank,"818,2"
+417,The First State Bank,Stockbridge,Georgia,"January 20, 2012",Hamilton State Bank,"536,9"
+418,Waccamaw Bank,Whiteville,North Carolina,"June 8, 2012",First Community Bank,"533,1"
+419,Plantation Federal Bank,Pawleys Island,South Carolina,"April 27, 2012",First Federal Bank,"486,4"
+420,"Inter Savings Bank, FSB",Maple Grove,Minnesota,"April 27, 2012",Great Southern Bank,"481,6"
+421,Home Savings of America,Little Falls,Minnesota,"February 24, 2012",None (Closed permanently by the FDIC),"434,1"
+422,First Guaranty Bank and Trust Company of Jacksonville,Jacksonville,Florida,"January 27, 2012",CenterState Bank of Florida,"377,9"
+423,Central Bank of Georgia,Ellaville,Georgia,"February 24, 2012",Ameris Bank,"278,9"
+424,BankEast,Knoxville,Tennessee,"January 27, 2012",U.S. Bancorp,"272,6"
+425,Premier Bank,Wilmette,Illinois,"March 23, 2012",International Bank of Chicago,"268,7"
+426,First Cherokee State Bank,Woodstock,Georgia,"July 20, 2012",Community & Southern Bank,"222,7"
+427,Jasper Banking Company,Jasper,Georgia,"July 27, 2012","Stearns Bank, NA","216,7"
+428,Second Federal Savings and Loan Association of Chicago,Chicago,Illinois,"July 20, 2012",Hinsdale Bank & Trust Company,"199,1"
+429,SCB Bank,Shelbyville,Indiana,"February 10, 2012","First Merchants Bank, NA","182,6"
+430,Montgomery Bank and Trust,Ailey,Georgia,"July 6, 2012",Ameris,"173,6"
+431,Putnam State Bank,Palatka,Florida,"June 15, 2012",Harbor Community Bank,"169,5"
+432,Bank of the Eastern Shore,Cambridge,Maryland,"April 27, 2012",None (Wound down by FDIC as receiver),"166,7"
+433,HarVest Bank of Maryland,Gaithersburg,Maryland,"April 27, 2012",Sonabank,"164,3"
+434,The Farmers Bank of Lynchburg,Lynchburg,Tennessee,"June 15, 2012",Clayton Bank and Trust,"163,9"
+435,Security Exchange Bank,Marietta,Georgia,"June 15, 2012",Fidelity Bank,151
+436,Global Commerce Bank,Doraville,Georgia,"March 2, 2012",Metro City Bank,"143,7"
+437,Palm Desert National Bank,Palm Desert,California,"April 27, 2012",Pacific Premier,"125,8"
+438,Georgia Trust Bank,Buford,Georgia,"July 20, 2012",Community & Southern Bank,"119,8"
+439,Patriot Bank Minnesota,Forest Lake,Minnesota,"January 27, 2012",First Resource Bank,"111,3"
+440,Heartland Bank,Leawood,Kansas,"July 20, 2012",Metcalf Bank,110
+441,"Security Bank, NA",North Lauderdale,Florida,"May 4, 2012",Banesco,101
+442,Covenant Bank & Trust,Rock Spring,Georgia,"March 23, 2012","Stearns Bank, NA","95,7"
+443,Charter National Bank and Trust,Hoffman Estates,Illinois,"February 10, 2012","Barrington Bank & Trust Company, NA","93,9"
+444,Royal Palm Bank of Florida,Naples,Florida,"July 20, 2012",First National Bank of the Gulf Coast,87
+445,Central Florida State Bank,Belleview,Florida,"January 20, 2012",CenterState Bank of Florida,"79,1"
+446,New City Bank,Chicago,Illinois,"March 9, 2012",None (Closed permanently by the FDIC),"71,2"
+447,Carolina Federal Savings Bank,Charleston,South Carolina,"June 8, 2012",Bank of North Carolina,"54,4"
+448,"Fort Lee Federal Savings Bank, FSB",Fort Lee,New Jersey,"April 20, 2012",Alma Bank,"51,9"
+449,"Alabama Trust Bank, NA",Sylacauga,Alabama,"May 18, 2012",Southern States Bank,"51,6"
+450,First Capital Bank,Kingfisher,Oklahoma,"June 8, 2012",F & M Bank,"46,1"
+451,Farmers and Traders State Bank,Shabbona,Illinois,"June 8, 2012",First State Bank,"43,1"
+452,Glasgow Savings Bank,Glasgow,Missouri,"July 13, 2012",Regional Missouri Bank,"24,8"
+453,American Eagle Savings Bank,Boothwyn,Pennsylvania,"January 20, 2012","Capital Bank, N.A.","19,6"
