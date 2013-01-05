@@ -100,7 +100,6 @@
 
         dat.GUI.DEFAULT_WIDTH = 200;
         var toggle = new dat.GUI();
-        toggle.close()
         toggle.add(TorqueOptions, 'resolution', [1, 2, 4, 8, 16, 32]).listen();
         toggle.add(TorqueOptions, 'cumulative').listen();
         toggle.add(TorqueOptions, 'steps', 10, 750).listen();
