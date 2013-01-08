@@ -8,7 +8,28 @@
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>Us bank failures</title>
+    <title>US Bank Failures</title>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37486553-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Sharebar -->
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>	
+
   </head>
 
   <body>
@@ -18,12 +39,12 @@
         <header class="inner">
           <a id="forkme_banner" href="https://github.com/fontanon/us_bank_failures">View on GitHub</a>
 
-          <h1 id="project_title">Us bank failures</h1>
-          <h2 id="project_tagline">Temporal mapping for CartoDB using the SQL API</h2>
+          <h1 id="project_title">US bank failures 2008-2012</h1>
+          <h2 id="project_tagline">A data sigh on US financial crisis besides Lehman and AIG</h2>
 
             <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/fontanon/us_bank_failures/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/fontanon/us_bank_failures/tarball/master">Download this project as a tar.gz file</a>
+              <a class="zip_download_link" href="https://raw.github.com/fontanon/us_bank_failures/master/us_banks_failures.csv">Download raw data as CSV</a>
+              <a class="tar_download_link" href="https://github.com/fontanon/us_bank_failures/raw/master/us_banks_failures.ods">Download raw data as OpenDocument Spreadsheet</a>              
             </section>
         </header>
     </div>
@@ -31,44 +52,69 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h3>Welcome to GitHub Pages.</h3>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+<div style="text-align: right">
+<p><em>The Financial crisis of 2007–2012 led to the failure of a number of banks in the United States. Twenty-five banks failed and were taken over by the Federal Deposit Insurance Corporation (FDIC) in 2008, while 140 failed in 2009, 157 in 2010 and 92 in 2011.</em><br>
+Souce: <a href="http://en.wikipedia.org/wiki/List_of_bank_failures_in_the_United_States_(2008%E2%80%93present)">Wikipedia</a></p>
+</div>
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
+<p>453 Bank failures by July 2012 are visualized here.</p> 
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+<h3>Interactive visualization</h3>
+<iframe width='650' height='500' src='http://fontanon.cartodb.com/tables/us_bank_failures/embed_map?title=true&amp;description=false&amp;search=true&amp;shareable=true&amp;sql=&amp;zoom=3&amp;center_lat=39.095962936305476&amp;center_lon=-99.140625'></iframe>
+<ul>
+	<li>See the<a href="http://fontanon.cartodb.com/tables/11739" target="_blank"><strong>fullscreen map and data</strong></a>.</li>
+	<li><strong>Sizes of bubbles </strong>marks <strong>value of bank's assets</strong> before being acquisited by a third.</li>
+	<li><strong>Bank's assets </strong>are expressed in <strong>million of US$</strong>.</li>
+	<li>Colors marks date of acquisition: <strong>2008 - black, <span style="color: #ff0000;">2009 - red</span>, <span style="color: #00ff00;">2010 - green</span>, <span style="color: #3366ff;">2011 - blue</span>, <span style="color: #ff6600;">2012 - orange</span></strong>.</li>
+	<li>Use the <strong>search box</strong> to focus on details of an US city or state.</li>
+</ul>
+<br/>
+<h3>Through time animation</h3>
+<a href="http://fontanon.github.com/us_bank_failures/torque_animation/" target="_blank"><img src="images/animation_preview.png"></a>
+<ul>
+	<li>Use the <strong>controls window</strong> for pausing, setting bubble sizes, etc.</li>
+</ul>
+<br/>
+<h3>Bank acquisitions</h3>
+<iframe width='650' height='500' scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?containerId=gviz_canvas&amp;viz=GVIZ&amp;t=GRAPH&amp;gc=true&amp;gd=true&amp;sdb=1&amp;rmax=100000&amp;q=select+col6%2C+col1%2C+col7+from+1ryf2-Fe48kIXEE9Z4n0Ogu6D74ZIOpwlUl9lAjk&amp;qrs=+where+col6+%3E%3D+&amp;qre=+and+col6+%3C%3D+&amp;qe=&amp;state=%7B%22ps%22%3A%221_ca_5a_1c_cb_6m_1i_0_iw_34_4_t_6n_1_iw_3o_co_-3r_-5c_cn_-4c_-5a_cq_i2_-5b_cp_hc_-5h_cr_cp_-43_cc_1k_6h_cs_c1_-4h_w_6n_-75_x_5v_-75_f6_9e_6t_f5_8n_73_y_-d0_-3p_13_33_-59_z_-c8_-3x_ct_-3_73_10_c2_6n_1i_84_-6d_11_b4_73_cu_ja_22_55_fr_-27_54_g5_-16_3_de_4v_2_e1_3u_15_el_-x_12_-d_66_17_-21_-1j_57_de_-1r_14_1t_-4w_29_-fa_-4d_16_eo_g_8k_-6x_-4a_82_fe_5n_5_1x_7j_cv_4_5e_56_ht_25_5b_-au_w_1m_d9_-6y_58_d8_-b_f7_-82_-58_59_-7f_g_5a_-8w_e_cd_e3_68_5c_-cd_x_1c_el_-5b_9m_-6y_-6a_9l_-5k_-6z_5g_ac_-7c_f9_-5m_-2p_f8_-40_-2m_5s_-14_-64_cw_-gq_-3x_18_-1z_-2q_6t_-2j_-3h_5e_-91_-1l_5d_-7n_-18_9p_2x_-79_e_-ap_-14_1a_-3f_1k_5q_42_-6v_19_2l_6x_8_-ac_2r_5u_8w_-5a_5f_92_-7a_cx_-8j_-3p_fa_7f_-51_fb_5z_-4t_2j_-16_-4h_7_k0_-4f_6_ky_-3q_1e_ji_-2s_1b_-4h_32_cy_-9n_-44_9_-8r_2i_20_ly_-3r_7z_-gd_0_1d_ep_-3n_9x_-h6_22_5k_-38_-19_cz_1m_-16_d0_38_-1h_1f_kn_-1b_9n_-b_-75_9o_-1e_-73_5m_-en_-1w_et_4t_-5j_5h_99_-6c_1h_hn_-31_fc_35_-6g_1g_g0_-3y_5i_y_-57_6n_-e_-5e_4d_-3r_-8_5p_-jh_-4o_1l_-69_-1b_d1_1a_-3y_1j_aa_-60_1k_-7g_-2t_64_-id_3d_2t_-3c_4i_5v_61_-5s_g2_97_-49_74_fc_3p_61_hr_-1p_9q_q_-6k_g_-5q_2k_5j_-5y_r_fe_hi_-7_8f_af_-4y_6w_-4x_9_44_-31_36_i_-6_-3s_5l_-2c_e_5n_-c9_-18_5o_-ko_-3h_1n_f3_-6h_as_-ec_d_1p_-ar_-3f_2e_fr_2c_d2_cx_-63_fd_fo_15_5r_1m_-62_2n_-2z_5n_5t_-2h_-71_9r_25_-7l_c_dv_1x_40_-jv_3z_ff_j5_-14_1o_-de_-10_9t_1y_-6s_9s_w_-7e_2d_-78_2d_5z_-q_-2d_dt_av_-6n_1q_-cm_-5h_1s_-il_-u_1r_-ix_-2l_1t_2m_-3x_9u_-4m_-1m_7u_-bu_-6b_%22%2C%22cx%22%3A250.1540536570584%2C%22cy%22%3A-32.14021038014284%2C%22sw%22%3A1836.7559489350501%2C%22sh%22%3A714.7411405146032%2C%22z%22%3A-0.21835989186412866%7D&amp;uiversion=2&amp;gco_forceIFrame=true&amp;gco_hasLabelsColumn=true&amp;width=650&amp;height=500"></iframe>
+<ul>
+	<li><strong>Sizes of bubbles </strong>marks <strong>value of bank's assets</strong> before being acquisited by a third.</li>
+	<li><strong>Yellow bubbles </strong>for banks acquired.</li>
+	<li><strong>Blue bubbles </strong>for acquiring banks.</li>
+</ul>
+<br/>
+<h3>Top 10 US bank failures acquisitions (2008-2012)</h3>
+<iframe width="650" height="500" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?containerId=gviz_canvas&amp;q=select+col6%2C+MINIMUM(col7)%2C+MAXIMUM(col7)%2C+AVERAGE(col7)%2C+SUM(col7)+from+1ryf2-Fe48kIXEE9Z4n0Ogu6D74ZIOpwlUl9lAjk+group+by+col6+order+by+SUM(col7)+desc+limit+10&amp;viz=GVIZ&amp;t=COLUMN&amp;uiversion=2&amp;gco_forceIFrame=true&amp;gco_hasLabelsColumn=true&amp;gco_type=columns&amp;gco_vAxes=%5B%7B%22title%22%3A%22Assets%22%2C+%22minValue%22%3Anull%2C+%22maxValue%22%3Anull%2C+%22useFormatFromData%22%3Atrue%2C+%22viewWindow%22%3A%7B%22max%22%3Anull%2C+%22min%22%3Anull%7D%2C+%22logScale%22%3Afalse%7D%2C%7B%22useFormatFromData%22%3Atrue%2C+%22viewWindow%22%3A%7B%22max%22%3Anull%2C+%22min%22%3Anull%7D%2C+%22minValue%22%3Anull%2C+%22maxValue%22%3Anull%2C+%22logScale%22%3Afalse%7D%5D&amp;gco_useFirstColumnAsDomain=true&amp;gco_isStacked=false&amp;gco_booleanRole=certainty&amp;gco_hAxis=%7B%22useFormatFromData%22%3Atrue%2C+%22minValue%22%3Anull%2C+%22maxValue%22%3Anull%2C+%22viewWindow%22%3Anull%2C+%22viewWindowMode%22%3Anull%7D&amp;gco_legend=right&amp;gco_title=Top+10+US+bank+failures+acquisitions+(2008-2012)&amp;width=650&amp;height=500"></iframe>
+<br/><br/>
+<h3>Top 10 US States bank failures by assets (2008-2012)</h3>
+<iframe width="650" height="500" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?containerId=gviz_canvas&amp;q=select+col3%2C+MINIMUM(col7)%2C+MAXIMUM(col7)%2C+AVERAGE(col7)%2C+SUM(col7)+from+1ryf2-Fe48kIXEE9Z4n0Ogu6D74ZIOpwlUl9lAjk+group+by+col3+order+by+SUM(col7)+desc+limit+10&amp;viz=GVIZ&amp;t=COLUMN&amp;uiversion=2&amp;gco_forceIFrame=true&amp;gco_hasLabelsColumn=true&amp;gco_type=columns&amp;gco_vAxes=%5B%7B%22title%22%3A%22Assets%22%2C+%22minValue%22%3Anull%2C+%22maxValue%22%3Anull%2C+%22useFormatFromData%22%3Atrue%2C+%22viewWindow%22%3A%7B%22max%22%3Anull%2C+%22min%22%3Anull%7D%7D%2C%7B%22useFormatFromData%22%3Atrue%2C+%22viewWindow%22%3A%7B%22max%22%3Anull%2C+%22min%22%3Anull%7D%2C+%22minValue%22%3Anull%2C+%22maxValue%22%3Anull%7D%5D&amp;gco_useFirstColumnAsDomain=true&amp;gco_isStacked=false&amp;gco_booleanRole=certainty&amp;gco_hAxis=%7B%22useFormatFromData%22%3Atrue%2C+%22minValue%22%3Anull%2C+%22maxValue%22%3Anull%2C+%22viewWindow%22%3Anull%2C+%22viewWindowMode%22%3Anull%7D&amp;gco_legend=right&amp;gco_title=Top+10+US+States+bank+failures+by+assets+(2008-2012)&amp;width=650&amp;height=500"></iframe>
 
-<h3>Designer Templates</h3>
+<h3>Technical information</h3>
+<p>Project site at GitHub: <a href="http://github.com/fontanon/us_bank_failures" target="_blank">http://github.com/fontanon/us_bank_failures</a><br/>
+Proudly produced with <a href="http://cartodb.com" target="_blank">CartoDB</a>, <a href="http://blog.cartodb.com/post/32464928928/torque-big-data-meets-time-based-maps-bundled-with" target="_blank">CartoDB Torque Engine</a> and <a href="http://support.google.com/fusiontables/answer/2571232/?hl=es&" target="_blank">Google Fusion Tables</a>.</p>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
+<h3>Sources of data and inspiration</h3>
+<ul>
+ <li><a href="http://en.wikipedia.org/wiki/List_of_bank_failures_in_the_United_States_(2008%E2%80%93present)">List of bank failures in the United States</a>. Original source of data at Wikipedia.</li>	
+ <li>FDIC's <a href="http://www.fdic.gov/bank/individual/failed/banklist.html">Failed Bank List</a>.</li>	
+	<li><a href="https://docs.google.com/spreadsheet/ccc?key=0AkitojFFyvjCdC1lcmRhRU9WWExSdmJ6OFpySExzb3c#gid=0">Failed Banks Tracker</a>, a collective harvesting of data by <a href="http://openeconomics.net/" target="_blank">OpenEconomics</a> group at <a href="http://okfn.org" target="_blank">Open Knowledge Foundation</a>.</li>
+</ul>
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">Us bank failures maintained by <a href="https://github.com/fontanon">fontanon</a></p>
+        <p class="copyright"><a href="https://github.com/fontanon">US Bank Failures</a> maintained by <a href="https://about.me/fontanon">fontanon</a></p>
         <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
       </footer>
-    </div>
-
-    
-
+    </div>    
   </body>
+
+<!-- Sharebar -->
+<script type="text/javascript">stLight.options({publisher: "b203a19b-bbc5-4e2b-83a1-0efeb6b89008"});</script>
+<script>
+var options={ "publisher": "b203a19b-bbc5-4e2b-83a1-0efeb6b89008", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "twitter", "linkedin", "pinterest", "email", "sharethis"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+
 </html>
